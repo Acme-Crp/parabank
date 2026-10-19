@@ -1,0 +1,11 @@
+{
+  "name": "apysyk-verified-fix-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node -e \"require('lodash'); console.log('verified-fix-lab ok')\""
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
